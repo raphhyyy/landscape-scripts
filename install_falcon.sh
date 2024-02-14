@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Download latest specified Crowdstrike pkg and install
-# richard@richard-purves.com - 05/03/2022
+
 
 # Is Crowdstrike already installed
 if [ ! -d "/Applications/Falcon.app" ];
